@@ -68,10 +68,18 @@ Tools & Platforms:
 * Worked on frontend and backend development using PHP & MySQL
 * Developed functional modules for real-world applications
 
-IPCA Laboratory – EHS Intern
-
-* Gained experience in safety practices, audits, and compliance
-* Trained in first-aid and safety drills
+KCS Services Private Limited
+09/2025 - 02/2026 Delhi
+A private services company involved in web-based projects
+Developed dynamic frontend components using React.js for web-based 
+platforms.
+Designed and implemented RESTful APIs for an e-commerce backend module.
+Integrated authentication and role-based access control for secure access.
+Structured backend services using modular architecture principles.
+Containerized services using Docker and explored microservices-based 
+deployment strategies.
+Collaborated using Git and GitHub in a version-controlled development 
+environment.
 
 ---
 
