@@ -2,7 +2,7 @@
 
  🚀 About Me
 
-I am a Software Engineering Graduate with a strong foundation in Python, Django, and Machine Learning. I enjoy building real-world applications that combine backend development with intelligent systems. I am passionate about learning, problem-solving, and applying technology to practical challenges.
+I am a Software Engineering Graduate with a strong foundation in JAVA, Python, Django, and Machine Learning. I enjoy building real-world applications that combine backend development with intelligent systems. I am passionate about learning, problem-solving, and applying technology to practical challenges.
 
 I have hands-on experience through internships and academic projects, and I am currently seeking internships or entry-level opportunities in Software Development, Backend Development, or Machine Learning.
 
