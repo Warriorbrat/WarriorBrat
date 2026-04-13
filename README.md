@@ -92,7 +92,7 @@ environment.
 ---
 
 📫 Connect With Me
-
+    E-mail: smtechie99@gmail.com
 💼 LinkedIn: [https://linkedin.com/in/sneha-mishra-77674222b](https://linkedin.com/in/sneha-mishra-77674222b)
 💻 GitHub: [https://github.com/Warriorbrat](https://github.com/Warriorbrat)
 
