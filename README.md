@@ -10,28 +10,26 @@ I have hands-on experience through internships and academic projects, and I am c
 
 ## 🛠️ Tech Stack
 
-Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
 
-C++, Java (Core), PHP, SQL
 
-Web Development:
+## 📊 GitHub Stats
 
- Django, HTML, CSS, JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Warriorbrat&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warriorbrat&theme=tokyonight" width="48%"/>
+</p>
 
-Databases:
-
-MySQL
-Machine Learning & AI:
-
-* Random Forest, SMOTE
-* PyTorch, OpenCV, MediaPipe
-
-Tools & Platforms:
-
-* Git & GitHub, VS Code
-* AWS (Basics), Android Studio
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warriorbrat&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 📌 Featured Projects
 
