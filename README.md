@@ -100,3 +100,13 @@ environment.
 
 ⭐Feel free to explore my repositories and connect with me for collaboration or opportunities!
 
+---
+
+## 📚 Library Management App UI Plan
+
+I have prepared a detailed clickable flow description based on the proposed wireframe:
+
+- [Library Management App – Clickable Flow Description](./library-app-wireframe.md)
+
+This includes role-based navigation, screen-level actions, and a suggested implementation order.
+
